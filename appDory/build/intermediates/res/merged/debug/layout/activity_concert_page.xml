@@ -1,0 +1,52 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:context="me.appdory.ConcertPageActivity" >
+
+        <TextView
+            style="@style/page_title"
+            android:text="@string/concert_page" />
+
+        <ImageView
+            android:id="@+id/concert_page_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/concert_page_concert_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <include
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginRight="100dp"
+                layout="@layout/buy_button"
+                tools:ignore="RtlHardcoded" />
+
+            <include
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                layout="@layout/calendar_button" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

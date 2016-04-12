@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#fafafa</color>
+    <color name="grey">#eeeeee</color>
+    <color name="greyer">#9e9e9e</color>
+	<color name="dark_grey">#616161</color>
+    <color name="darkest_grey">#212121</color>
+</resources>

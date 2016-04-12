@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="me.appdory.SaveStateFragment" >
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Token" />
+
+    <TextView
+        android:id="@+id/token_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOKEN BE HERE"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/load_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load Token" />
+
+    <Button
+        android:id="@+id/sync_button"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:text="Sync now" />
+    
+    <Button
+        android:id="@+id/notification_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notification plz" />
+
+    <Button
+        android:id="@+id/reset_notifications_viewed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reset Notifications Viewed" />
+
+</LinearLayout>

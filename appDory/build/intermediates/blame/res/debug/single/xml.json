@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/xml/authenticator.xml"
+    }
+]

@@ -1,0 +1,35 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="@style/DoryTheme"></style>
+
+    <style name="DoryTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColor">@color/darkest_grey</item>
+        <item name="android:actionBarStyle">@style/DoryActionBarStyle</item>
+        <item name="android:editTextStyle">@style/DoryEditTextStyle</item>
+    </style>
+
+	<style name="DoryEditTextStyle" parent="@android:style/Widget.Holo.EditText">
+	    <item name="android:textColor">@color/darkest_grey</item>
+	    <item name="android:background">#FF0000</item>
+	</style>
+	
+    <style name="DoryActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:titleTextStyle">@style/DoryActionBarTitleStyle</item>
+        <item name="android:background">@drawable/action_bar_border</item>
+    </style>
+
+    <style name="DoryActionBarTitleStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/darkest_grey</item>
+    </style>
+
+    <style name="page_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>

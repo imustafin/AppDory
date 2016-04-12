@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/menu/region_selector.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/menu/region_selector.xml"
+    },
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/menu/vk_login.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/menu/vk_login.xml"
+    },
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/menu/show_concerts.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/menu/show_concerts.xml"
+    },
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/menu/concert_list_actions.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/menu/concert_list_actions.xml"
+    },
+    {
+        "merged": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/build/intermediates/res/merged/debug/menu/authenticator.xml",
+        "source": "/home/ilgiz/AndroidStudioProjects/AppDory_copy/appDory/src/main/res/menu/authenticator.xml"
+    }
+]

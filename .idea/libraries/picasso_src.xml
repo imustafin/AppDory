@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="picasso-src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/appDory/libs/picasso-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

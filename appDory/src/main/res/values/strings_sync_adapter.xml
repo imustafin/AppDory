@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="started_syncing">Started syncing</string>
+<string name="no_instance_vkaccount">No instance VkAccount</string>
+<string name="vk_done_get_dory_id">VK done, get DORY id</string>
+<string name="doryid_done_vk_audio_get">DoryId done, vk audio.get()</string>
+<string name="fetched_music_saving">Fetched music, saving</string>
+<string name="saved_to_local_db">Saved to local db</string>
+<string name="cleaning_concert_db">Cleaning concert db</string>
+<string name="cleaning_pics_dir">Cleaning pics dir</string>
+<string name="getting_my_concert_ids">Getting my concert IDs</string>
+<string name="got_concert_ids">got concert IDs</string>
+<string name="loading_pic_for">"Loading pic for "</string>
+<string name="saving_concert_to_local_db">Saving concert to local db</string>
+<string name="sending_to_server_">Sending to server...</string>
+<string name="error_syncing_">"Error syncing: "</string>
+<string name="syncing_ok">Syncing OK!</string>
+<string name="getting_concert_info">Getting concert info</string>
+	    
+</resources>

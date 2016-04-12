@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_drawer_strings">
+        <item>@string/navigation_drawer_concerts</item>
+        <item>@string/navigation_drawer_my_music</item>
+        <item>@string/navigation_drawer_logout</item>
+        <!--
+        <item>[DIVIDER]</item>
+        <item>@string/navigation_drawer_account</item>
+        <item>@string/navigation_drawer_save_state</item>
+        -->
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string name="action_settings">Настройки</string>
+    <string name="app_name">AppDory</string>
+    <string name="artist">Исполнители</string>
+    <string name="calendar">В календарь</string>
+    <string name="cleaning_concert_db">Чистим БД концертов</string>
+    <string name="cleaning_pics_dir">Чистим папку с картинками</string>
+    <string name="concert_calendar_description">Добавить событие в календарь</string>
+    <string name="concerts_buy_description">Купить билет</string>
+    <string name="doryid_done_vk_audio_get">DoryId получен, vk audio.get()</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_userpic_descritption">Аватарка пользователя</string>
+    <string name="error_syncing_">"Ошибка синхронизации: "</string>
+    <string name="fetched_music_saving">Получили музыку, сохраняем</string>
+    <string name="getting_concert_info">Получаем информацию о концерте</string>
+    <string name="getting_my_concert_ids">Получаем ID концертов</string>
+    <string name="got_concert_ids">Получили ID концертов</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_pic_for">"Загружаем картинку для "</string>
+    <string name="login">Залогиниться</string>
+    <string name="login_login_done">Поехали!</string>
+    <string name="login_tiitle">Выберите где вы слушаете музыку</string>
+    <string name="login_vk_description">Зайти через VK</string>
+    <string name="logout">Разлогиниться</string>
+    <string name="navigation_drawer_concerts">Концерты</string>
+    <string name="navigation_drawer_logout">Выйти</string>
+    <string name="navigation_drawer_my_music">Мои песни</string>
+    <string name="new_concert_">Новый концерт!</string>
+    <string name="no_instance_vkaccount">Нет VkAccount</string>
+    <string name="not_logged_in">Не залогинены</string>
+    <string name="refresh">Обновить</string>
+    <string name="saved_to_local_db">Сохранил в локальную БД</string>
+    <string name="saving_concert_to_local_db">Добавляем концерт в БД</string>
+    <string name="sending_to_server_">Отправляем на сервер</string>
+    <string name="song_count">Количество песен</string>
+    <string name="started_syncing">Синхронизация началась</string>
+    <string name="syncing">Синхронизируемся</string>
+    <string name="syncing_ok">Синхронизация ОК!</string>
+    <string name="title_activity_authenticator">AuthenticatorActivity</string>
+    <string name="title_activity_login">Войти</string>
+    <string name="title_activity_vk_login">Зайти через VK</string>
+    <string name="to_webpage">Купить билет</string>
+    <string name="vk_done_get_dory_id">VK получен, получаем DORY id</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="started_syncing">Синхронизация началась</string>
+<string name="no_instance_vkaccount">Нет VkAccount</string>
+<string name="vk_done_get_dory_id">VK получен, получаем DORY id</string>
+<string name="doryid_done_vk_audio_get">DoryId получен, vk audio.get()</string>
+<string name="fetched_music_saving">Получили музыку, сохраняем</string>
+<string name="saved_to_local_db">Сохранил в локальную БД</string>
+<string name="cleaning_concert_db">Чистим БД концертов</string>
+<string name="cleaning_pics_dir">Чистим папку с картинками</string>
+<string name="getting_my_concert_ids">Получаем ID концертов</string>
+<string name="got_concert_ids">Получили ID концертов</string>
+<string name="loading_pic_for">"Загружаем картинку для "</string>
+<string name="saving_concert_to_local_db">Добавляем концерт в БД</string>
+<string name="sending_to_server_">Отправляем на сервер</string>
+<string name="error_syncing_">"Ошибка синхронизации: "</string>
+<string name="syncing_ok">Синхронизация ОК!</string>
+<string name="getting_concert_info">Получаем информацию о концерте</string>
+</resources>

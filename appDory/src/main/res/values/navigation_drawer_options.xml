@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="navigation_drawer_concerts">Concerts</string>
+    <string name="navigation_drawer_my_music">My Music</string>
+    <string name="navigation_drawer_logout">Logout</string>
+    <string name="navigation_drawer_account">Account</string>
+    <string name="navigation_drawer_save_state">Save State</string>
+
+    <string-array name="navigation_drawer_strings">
+        <item>@string/navigation_drawer_concerts</item>
+        <item>@string/navigation_drawer_my_music</item>
+        <item>@string/navigation_drawer_logout</item>
+        <!--
+        <item>[DIVIDER]</item>
+        <item>@string/navigation_drawer_account</item>
+        <item>@string/navigation_drawer_save_state</item>
+        -->
+    </string-array>
+
+</resources>
